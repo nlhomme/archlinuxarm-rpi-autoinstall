@@ -1,5 +1,5 @@
 # archlinuxarm-rpi-autoinstall
-Script to auto install ArchlinuxArm for Raspberry pi
+Script to auto install ArchlinuxArm for Raspberry pi.
 It's just a stupid script based on the instructions in the [archlinuxarm wiki](https://archlinuxarm.org/platforms/armv6/raspberry-pi)
 
 Todo list:
