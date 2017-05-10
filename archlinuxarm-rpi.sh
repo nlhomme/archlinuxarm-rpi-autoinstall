@@ -1,6 +1,8 @@
 #!/bin/bash
 #Ask the sd card location
 echo "Type your sdcard location (ex: /dev/sdc)"
+echo "Be sure you're running the script as root!"
+
 read device
 
 echo "o
